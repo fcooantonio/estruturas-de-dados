@@ -1,8 +1,8 @@
 # Repositório de exercícios da disciplina de Estruturas de Dados
 
 **Dicas para a disciplina:**
-- Pratique os códigos apresentados em aula;
-  - A IDE recomendada a ser usada na disciplina é o [Dev-C++](https://www.bloodshed.net/). Mas você pode optar pela IDE que mais lhe agrade. Deixo outras duas como indicações a [Visual Studio Code](https://code.visualstudio.com/) ou a [CLion](https://www.jetbrains.com/cpp/) da JetBrains, ambas devem ser configuradas para funcionar corretamente, há tutoriais na internet para ajudar com isso.
+- Pratique os códigos apresentados em aula.
+  - O IDE [<img src="https://www.wppluginsforyou.com/wp-content/uploads/2020/05/tooltips.png" width="15px" />](## "Ambiente de Desenvolvimento Integrado (Integrated Development Environment)") recomendado a ser usado na disciplina é o [Dev-C++](https://www.bloodshed.net/). Mas você pode optar pelo IDE que mais lhe agrade. Deixo outros dois como indicações o [Visual Studio Code](https://code.visualstudio.com/) ou o [CLion](https://www.jetbrains.com/cpp/) da JetBrains, ambos devem ser configurados para funcionar corretamente, há tutoriais na internet para ajudar com isso.
   - O [Beecrowd](https://judge.beecrowd.com/pt/login) é um site interessante para manter a lógica de programação em dia, podendo, inclusive, ser usado para qualquer linguagem de programação!
 - Pratique a escrita de código, a sintaxe da linguagem C, com papel e lápis (ou caneta), pois ela é a linguagem a ser usada nas ***provas escritas*** da disciplina.
 - Faça provas antigas para ter noção de como os conteúdos serão cobrados.
