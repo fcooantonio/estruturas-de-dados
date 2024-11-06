@@ -6,15 +6,19 @@ struct ponto {
 	float y;
 };
 
+void captura_ponto(struct ponto *pp){
+	printf("Digite as coordenadas do ponto (x,y):\n");
+	scanf("%f %f", &pp->x, &pp->y);
+}
+
+void imprime_ponto(struct ponto *pp){
+	printf("Ponto (%.1f,%.1f)\n", pp->x, pp->y);
+}
+
 int main(int argc, char *argv[]) {
 	struct ponto p;
-	struct ponto *pp;
-	pp = &p;
-	printf("Digite as coordenadas do ponto (x,y): ");
-	scanf("%f %f", &p.x, &p.y);
-	pp->x = 10;
-	pp->y = 10;
-	printf("Ponto (%.2f,%.2f)\n", p.x, p.y);
+	captura_ponto(&p);
+	imprime_ponto(&p);
 	system("pause");
 	return 0;
 }
